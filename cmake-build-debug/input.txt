@@ -1,0 +1,104 @@
+alimentacao 200
+transportes 100
+vestuario 20
+treinos 20
+passeios 50
+hobies 50
++
+compras semanais-188-alimentacao
+energia-10-transportes
+calcoes-15-vestuario
+elasticos-10-treinos
+fim de semana fora-40-passeios
+up grades PC-40-hobies
+upgrades telemovel-90-hobies
++
+compras semanais-250-alimentacao
+bolo de anos-20-alimentacao
+energia-50-transportes
+chinelos-5-vestuario
+corda-10-treinos
+fim de semana fora-60-passeios
+compra de dvd-10-hobies
++
+compras semanais-200-alimentacao
+energia-60-transportes
+sapatos-25-vestuario
+luvas-10-treinos
+ida ao cinema-20-passeios
+rato novo-50-hobies
++
+compras semanais-150-alimentacao
+energia-30-transportes
+camisolas-30-vestuario
+bicicleta-80-treinos
+conta kilometros-15-treinos
+ida ao booling-23-passeios
+monitor novo-80-hobies
++
+compras semanais-230-alimentacao
+energia-24-transportes
+pneus novos-100-transportes
+calcas-22-vestuario
+bola-20-treinos
+caminhada pelo bosque-0-passeios
+head set-45-hobies
++
+compras semanais-250-alimentacao
+energia-75-transportes
+toalhas de praia-25-vestuario
+protecoes-15-treinos
+jantar fora-15-passeios
+upgrades PC-40-hobies
++
+compras semanais-195-alimentacao
+energia-80-transportes
+camisas-10-vestuario
+aneis-50-treinos
+ida a praia-0-passeios
+teclado novo-67-hobies
+telemovel novo-50-hobies
++
+compras semanais-180-alimentacao
+energia-40-transportes
+calcoes de banho-15-vestuario
+barras moveis-40-treinos
+passeio pelo choupal-0-passeios
+colunas de som novas-100-hobies
+TV nova-80-hobies
++
+compras semanais-170-alimentacao
+energia-10-transportes
+casaco-30-vestuario
+colete de pesos-50-treinos
+ida ao cinema-15-passeios
+almoco fora-10-passeios
+kit de montagem de PC-20-hobies
++
+compras semanais-200-alimentacao
+energia-5-transportes
+revisao do carro-20-transportes
+meias-5-vestuario
+boxers-5-vestuario
+capacete-25-treinos
+luzes para bicicleta-10-treinos
+fim de semana fora-50-passeios
+mais pecas para o PC-65-hobies
++
+compras semanais-236-alimentacao
+energia-55-transportes
+bilhete comboio-15-transportes
+gorro-10-vestuario
+cinto de pesos-35-treinos
+visita a familia-0-passeios
+camara de video-100-hobies
++
+compras semanais-221-alimentacao
+energia-56-transportes
+camisolas-28-vestuario
+garrafa-15-treinos
+passeios pelo bosque-0-passeios
+jantar fora-15-passeios
+tapete de rato-10-hobies
+cadeira nova-150-hobies
++
